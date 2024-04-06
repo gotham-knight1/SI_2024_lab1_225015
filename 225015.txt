@@ -1,0 +1,22 @@
+1. Napraven github profil: https://github.com/gotham-knight1;
+2. Glavna granka promeneta vo master;
+3. Kreiran repozitorium SI_2024_lab1_225015;
+4. Inicializiran lokalen repozitorium;
+5. Povrzan lokalen so oddalechen repozitorium: https://github.com/gotham-knight1/SI_2024_lab1_225015.git;
+6. Napraven nov fajl README.txt, preimenuvan vo README.md i dodaden na repo so poraka "Initial commit";
+7. Prevzemeni fajlovi od link1, link2, link3 i dodadeni na lokalniot repo i napraven commit so poraka "Add starter code";
+8. Lokalniot repo e sinhroniziran so oddalecheniot;
+9. Kreirani novi dve granki bug1, bug2;
+10.Prefrluvanje na bug1 i popravka na greshkata vo metodot;
+11.Prefrluvanje na bug2 i popravka na greshkata vo metodot;
+12.Prefrluvanje na bug1 i vnesuvanje na metodot od SILab1_1.java vo SILab1Main.java;
+13.Prefrluvanje na bug2 i vnesuvanje na metodot od SILab1_2.java vo SILab1Main.java;
+14.Sinhronizacija na dvete granki so oddalecheniot repo;
+15.Prefrlanje na grnaka master;
+16.Spojuvanje na bug1 so master granka;
+17.Prefrluvanje na bug2;
+18.Napraven rebase na granka master;
+19.Spojuvanje na bug2 so master;
+20.Sinhroniziranje so master grankata;
+(vo megjuvreme imav nekoi errori i sluchajno ja zatvoriv kozolata za git)
+21.Napraveni log.txt i 225015.txt, kopirani logs vo log.txt;
