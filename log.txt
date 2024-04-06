@@ -1,0 +1,22 @@
+commit 9160409f820fcd123ea24597f20e9ebb545d0eff (HEAD -> master, origin/master)
+Merge: c0c1530 b7e24b0
+Author: unknown <enis.dacikj@students.finki.ukim.mk>
+Date:   Sat Apr 6 15:44:18 2024 +0200
+
+    Merge branch 'master' of https://github.com/gotham-knight1/SI_2024_lab1_225015
+
+commit c0c1530fb8ae31966478eb2f99558a961b582aac
+Merge: 01743df 890daab
+Author: unknown <enis.dacikj@students.finki.ukim.mk>
+Date:   Sat Apr 6 15:43:15 2024 +0200
+
+    Merge branch 'bug2' of https://github.com/gotham-knight1/SI_2024_lab1_225015
+
+commit 01743dfa30b1cee73cc6c6199253a554b98e13e4
+Author: unknown <enis.dacikj@students.finki.ukim.mk>
+Date:   Sat Apr 6 14:54:33 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit d4935fef6aa6bf59e8fc0db6bd5045acd784b15e
+Author: unknown <enis.dacikj@students.finki.ukim.mk>
